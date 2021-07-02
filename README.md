@@ -14,7 +14,11 @@ This app should satisfy the following minimum requirements:
 - 1.The code should be readable, reusable, and easy to modify. We're looking for production-quality code.
 - 2.A detailed Readme file which includes the following:
     - 1.Installation instructions
-        a. Write out all of the steps to run your app locally
+        - a. Write out all of the steps to run your app locally
     - 2.Discussion of technologies used
-        a. Make a list of the technologies you used including frameworks and libraries.
+        - a. Make a list of the technologies you used including frameworks and libraries.
 - 3.A section describing the requirements and how you met them.
+
+# Languages
+
+# Frameworks
