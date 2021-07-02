@@ -20,5 +20,13 @@ This app should satisfy the following minimum requirements:
 - 3.A section describing the requirements and how you met them.
 
 # Languages
+- HTML
+- CSS
+- JavaScript
 
-# Frameworks
+# Framework
+
+# Wireframe
+- Initial idea for the app
+- Wireframe created using balsamiq.
+<img src="./recipeWireFrame.png" height = "500"/>
