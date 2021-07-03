@@ -25,6 +25,7 @@ This app should satisfy the following minimum requirements:
 - JavaScript
 
 # Framework
+- Bootstrap
 
 # Wireframe
 - Initial idea for the app
