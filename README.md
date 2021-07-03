@@ -1,5 +1,5 @@
-# simple-recipe-app
-Creating a simple recipe app as Technical coding challenge for an interview. (Mock Interveiew Practice)
+# Task
+Creating a simple recipe app as Technical coding challenge for an interview. 
 
 # Instructions
 Create a simple recipe app. The app can be a command-line app or a web app. You may use JavaScript libraries but they are not a requirement, HTML/CSS and vanilla JS are sufficient.
