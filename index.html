@@ -15,6 +15,77 @@
     </head>
     <body>
     <h1>Yummylicious Recipe App</h1>
+
+    <!--start of add recipe button-->
+    <div>
+        <button
+            type="button"
+            class="btn btn-primary addCard"
+            data-bs-toggle="modal"
+            data-bs-target="#modal"
+            id="addCardForm">
+            Add a Recipe
+        </button>
+    <!--end of add recipe button-->
+
+    <!--start of modal-->
+    <div
+        class="modal fade recipe-list"
+        id="modal"
+        tabindex="-1"
+        aria-labelledby="addCardForm"
+        aria-hidden="true"
+    >
+        <div class="modal-dialog">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h2>Add a Recipe</h2>
+            <button
+            type="button"
+            id="closeBtn"
+            class="btn-close"
+            data-bs-dismiss="modal"
+            aria-label="Close">
+        </button>
+    </div>
+
+    <!--start of form field-->
+    <div class="container">
+        <form>
+            <!--recipe name input begins-->
+            <div class="mb-2">
+                <label for="taskName" class="form-label"> Recipe Name:   
+                </label>
+                <input 
+                type="form-control"
+                class="form-control"
+                id="taskName"
+                required
+                placeholder="Enter the name of your recipe"
+                />
+            </div>
+            <!--recipe name input end-->
+
+            <!--ingredients input begins-->
+            <div class="mb-2">
+                <label for="description" class="form-label">Enter ingredients</label>
+                <textarea
+                maxlength="280"
+                class="form-control"
+                id="description"
+                rows="3"
+                placeholder="Please input ingredients for your recipe."></textarea>
+            </div>
+            <!--ingredients input ends-->
+
+            <!--add recipe button begins-->
+            <button id="createBtn" class="btn" type="button">ADD RECIPE</button>
+            <!--add recipe button ends-->
+        </form>
+    </div>
+    <!--end of form field-->
+    <!--end of modal-->
+
     <footer>
         <p>Copyright 2021</p>
     </footer>

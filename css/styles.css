@@ -11,3 +11,11 @@ h1 {
 p {
     text-align: center;
 }
+
+.container form .btn {
+    width: 100%;
+    background-color: cadetblue;
+    cursor: pointer;
+    border-radius: 15px;
+    transition: 0.3s;
+}
