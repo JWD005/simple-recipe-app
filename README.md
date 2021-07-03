@@ -29,4 +29,5 @@ This app should satisfy the following minimum requirements:
 # Wireframe
 - Initial idea for the app
 - Wireframe created using balsamiq.
-<img src="./wire.PNG" height = "500"/>
+
+<img src="./img/idea.PNG"  height="500"/>
