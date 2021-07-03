@@ -29,5 +29,10 @@ This app should satisfy the following minimum requirements:
 # Wireframe
 - Initial idea for the app
 - Wireframe created using balsamiq.
+- Add recipe button to pop up Bootstrap modal.
+- Input name of recipe in name form field.
+- Input ingredients in form field textarea.
+- Add button to add to list of recipes.
+- Delete button to delete recipe.
 
 <img src="./img/idea.PNG"  height="500"/>
