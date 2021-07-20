@@ -22,7 +22,6 @@ This app should satisfy the following minimum requirements:
 # Languages
 - HTML
 - CSS
-- JavaScript
 
 # Framework
 - Bootstrap
